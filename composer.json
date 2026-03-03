@@ -1,6 +1,6 @@
 {
-    "name": "elephant-php/vo-ttl",
-    "description": "Immutable Value Object Time To Live for cache",
+    "name": "elephant-php/ttl",
+    "description": "An immutable Time To Live value object for the cache and other places where you need to specify a time rather than a magic value.",
     "type": "library",
     "license": "MIT",
     "autoload": {
