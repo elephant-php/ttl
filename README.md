@@ -7,7 +7,7 @@
 </p>
 
 
-Immutable Value Object Time To Live for cache.
+An immutable Time To Live value object for the cache and other places where you need to specify a time rather than a magic value.
 
 
 ## Requirements
@@ -19,7 +19,7 @@ Immutable Value Object Time To Live for cache.
 The package could be installed with [Composer](https://getcomposer.org):
 
 ```shell
-    composer require elephant-php/vo-ttl
+    composer require elephant-php/ttl
 ```
 
 ## Configuration
