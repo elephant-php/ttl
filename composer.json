@@ -1,6 +1,7 @@
 {
     "name": "elephant-php/ttl",
     "description": "An immutable Time To Live value object for the cache and other places where you need to specify a time rather than a magic value.",
+    "keywords": ["ttl", "time-to-live", "cache", "caching", "time", "date", "date-time", "value-object", "vo", "no-magic-value"],
     "type": "library",
     "license": "MIT",
     "autoload": {
